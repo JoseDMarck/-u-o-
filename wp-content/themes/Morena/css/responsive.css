@@ -1,0 +1,505 @@
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1920px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:4000px) {
+
+.Bloque-Slider-Noticias > .NoticiasContenedor{
+	max-width: 1600px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque {
+    width: 74%;
+}
+
+
+
+}/* 2200 */
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1800px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1800px) {
+
+.Bloque-Slider-Noticias > .NoticiasContenedor{
+	max-width: 1300px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque {
+    width: 74%;
+}
+
+
+
+}/* 2200 */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1690px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1690px) {
+
+ 
+
+} /* 1690 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1480px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1480px) {
+ 
+.Bloque-Slider-Noticias > .NoticiasContenedor{
+	max-width: 1000px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque {
+    width: 90%;
+}
+
+
+
+}/* 14480 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1366px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1366px) {
+
+ 
+}/* 1366 */
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1290px) {
+
+ .header-video {
+  height: 620px;
+}
+
+}/* 1280 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1280px) {
+
+ .header-video {
+  height: 620px;
+}
+
+}/* 1280 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1200px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1200px) {
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque {
+    width: 75%;
+}
+
+.contenedorBloques {
+	width: 1000px;
+}
+
+
+
+
+}/* 1200 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1152px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1152px) {
+ 
+.arrows_home_post{
+	display: none;
+}	
+
+
+
+}/* 1152 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1024px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1024px) {
+ 
+
+
+.central{
+   
+  width: 500px;
+  height: 500px;
+    
+}
+
+
+
+
+}/* 1024 */
+
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1010px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1010px) {
+ .contenedorBloques {
+    width: 800px;
+}
+
+.contenedorBloques > .Bloques > .Titulo {
+    font-size: 18px;
+	line-height:  18px;
+}
+
+.contenedorBloques > .Bloques > .Descripcion {
+	font-size: 16px;
+	line-height: 16px;
+}
+
+
+.contenedorBloques > .Bloques > .icono {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque > .descripcion{
+  height: auto;
+}
+
+
+.PaginaHome > .Seccion-2 > .tituloSeccion{
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.PaginaHome > .Seccion-3 > .tituloSeccion{
+    font-size: 40px;
+    line-height: 40px;
+}
+ 
+
+
+.footer > .fondo > .Bloques > .titulos{
+  font-size: 18px;
+}
+
+
+.footer {
+  height: 200px;
+}
+
+
+
+
+
+
+
+}/* 1000 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 860px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:860px) {
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque {
+    width: 90%;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque > .descripcion {
+ 	height: auto;
+}
+
+
+.footer > .fondo > .Bloques > .logo {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.RedesSociales {
+    width: 100%;
+    height: auto;
+}
+
+
+}/* 800 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 860px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:800px) {
+
+
+.arrows_home_post-movil{
+  opacity: 1 !important
+}
+
+
+.sliderOnWeb{
+  display: none;
+}
+
+
+.sliderOnMovil{
+  display: block;
+  background: #636363;
+}
+
+
+ .Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques {
+    width: 80%;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+}
+
+.Bloque-Slider-Videos > .contenedor_videos > .videos {
+    width: 70%;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+.videosMovil > li{
+  background: rgba(255,255,255,0.3) !important;
+}
+
+.videosMovil > li .active{
+  background-color:  #bc4b4b !important;
+}
+
+
+.PaginaHome > .Seccion-4 > .BloqueA {
+  width: 80%;
+  float: none;
+  margin: 0 auto;
+}
+
+.PaginaHome > .Seccion-4 > .BloqueB {
+  width: 80%;
+  float: none;
+  margin: 0 auto;
+}
+
+
+}/* 800 */
+
+/* --------------------------------------------------------
+/* ---- Responsive: 768px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:780px) {
+
+.contenedorBloques {
+    width: 100%;
+}
+
+.contenedorBloques > .Bloques {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin-bottom: 40px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque > .titulo {
+	font-size: 14px;
+    line-height: 14px;
+}
+
+.Bloque-Slider-Noticias > .NoticiasContenedor > .Bloques > .SubBloque > .descripcion {
+	font-size: 10px;
+    line-height: 12px;
+}
+
+
+.footer > .fondo > .Bloques > .titulos {
+    width: 100%;
+    height: auto;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+}/* 768 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 680px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:680px) {
+
+ .central{
+   
+  width: 400px;
+  height: 400px;
+    
+}
+
+
+.HederEjemplo{
+    height: 40px;
+}
+
+.FooterEjemplo{
+    height: 40px;
+}
+
+
+.footer {
+    height: 170px;
+}
+
+}/* 680 */
+
+/* --------------------------------------------------------
+/* ---- Responsive: 600px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:600px) {
+
+ .btn_play_video{
+    width: 54px;
+    height: 54px;
+    background-size: 54px 54px;
+  }
+
+ 
+
+}/* 600 */
+
+
+
+ 
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 568px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:568px) {
+ 
+ .central{
+   
+  width: 300px;
+  height: 300px;
+    
+}
+
+.BloquesTextosFooter{
+  display: none;
+}
+
+
+.footer > .fondo > .Bloques > .logo {
+  margin-bottom: 10px;
+}
+
+.footer{
+  height: 150px;
+}
+
+.footer > .fondo > .BloquesLogo {
+    width: 180px !important;
+    float: none;
+    margin: 0 auto;
+}
+
+.copyRight{
+  font-size: 10px; 
+}
+
+
+
+} /* 568 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 480px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:480px) {
+ .GotoTop {
+  bottom: 7%;
+ }
+
+} /* 480 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 400px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:420px) {
+ 
+
+}/* 400 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 360px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:380px) {
+	 
+
+}/* 380 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 360px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:360px) {
+ 
+}/* 360 */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 320px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:320px) {
+ 
+}/* 320 */
